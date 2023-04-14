@@ -1,4 +1,4 @@
-<h1 align="center"> Discord-Account-Creator </h1>
+<h1 align="center"> Discord Account Creator </h1>
 
 <h1 align="center">DC-GEN</h1>
 
