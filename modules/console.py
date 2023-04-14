@@ -49,16 +49,16 @@ class Console:
     def print_logo():
         os.system('cls' if os.name == 'nt' else 'clear')
         banner = f"""
+  {Fore.CYAN}  _____   _____    _____ ______ _   _ 
+  {Fore.CYAN} |  __ \ / ____|  / ____|  ____| \ | |
+  {Fore.CYAN} | |  | | |      | |  __| |__  |  \| |
+  {Fore.CYAN} | |  | | |      | | |_ |  __| | . ` |      {Fore.BLUE}vast#6969
+  {Fore.CYAN} | |__| | |____  | |__| | |____| |\  | {Fore.BLUE}https://github.com/alphaotuken
+  {Fore.CYAN} |_____/ \_____|  \_____|______|_| \_|
+  {Fore.CYAN}                                           {Fore.RED}DEBUG: {config["debug"]}
+  {Fore.CYAN}  
   {Fore.CYAN}
-  {Fore.CYAN} ██▒   █▓▄▄▄█████▓  ▄████ 
-  {Fore.CYAN}▓██░   █▒▓  ██▒ ▓▒ ██▒ ▀█▒
-  {Fore.CYAN} ▓██  █▒░▒ ▓██░ ▒░▒██░▄▄▄░                  {Fore.BLUE}vast#6969
-  {Fore.CYAN}  ▒██ █░░░ ▓██▓ ░ ░▓█  ██▓          {Fore.BLUE}https://github.com/imvast
-  {Fore.CYAN}   ▒▀█░    ▒██▒ ░ ░▒▓███▀▒
-  {Fore.CYAN}   ░ ▐░    ▒ ░░    ░▒   ▒                 {Fore.RED}DEBUG: {config["debug"]}
-  {Fore.CYAN}   ░ ░░      ░      ░   ░ 
-  {Fore.CYAN}     ░░    ░      ░ ░   ░ 
-  {Fore.CYAN}      ░                 ░ 
-  {Fore.CYAN}     ░                    
+  {Fore.CYAN}    
+  {Fore.CYAN}                     
 """ + Fore.RESET
         print(banner)
