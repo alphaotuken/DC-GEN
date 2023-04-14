@@ -34,3 +34,5 @@ Join my discord for more information -> https://discord.gg/aura-development-webs
 - https://github.com/imvast
 - https://github.com/alphaotuken
 - https://github.com/itsvitchy
+
+![image](https://user-images.githubusercontent.com/100890340/231947911-4ee50fce-9b43-4c79-8ded-1529fca19ef0.png)
